@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #coding = uft-8
 #coding by xsseng - 9166794@qq.com
-#tipping btc address:1Fck8AG9Ev656NKJ3VWTJXT2vjAJZGiBEN
+#tipping btc address:1DHZPpsmahjaDNUrCgjijcKk44sUsLkc2U
 
 import urllib
 import urllib2
@@ -22,7 +22,7 @@ d_price = 1200
 #防做空收购数量境界
 max_buy_num = 0.18
 #爬虫定时/秒
-t = 1
+t = 5
 #输入用户cookie和token头的值
 cookie = ''
 token = ''
